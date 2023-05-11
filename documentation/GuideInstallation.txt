@@ -1,0 +1,32 @@
+Guide d'installation de l'API de recettes : Pour les aventuriers culinaires douteux !
+Hé toi, amateur de code et de plaisanteries douteuses ! Prépare-toi à plonger dans l'univers délicieux de l'API de recettes. Accroche-toi, car ça va être un voyage plein de saveurs et de blagues un peu bancales !
+
+Prérequis : Les ingrédients pour ta potion magique
+Avant de te lancer, assure-toi d'avoir les ingrédients nécessaires pour ta potion magique culinaire :
+
+Node.js : Si tu n'as pas déjà Node.js d'installé, va sur leur site officiel et télécharge-le. C'est comme obtenir une baguette magique, mais pour le développement.
+
+Express : Express est ton fidèle compagnon de route pour construire des applications web en Node.js. Installe-le en utilisant la commande npm install express. C'est comme obtenir un couteau suisse pour ta cuisine de développement.
+
+Mongoose : Mongoose est la clé magique qui te permettra d'interagir avec une base de données MongoDB. Installe-le avec la commande npm install mongoose. C'est comme avoir un chef étoilé dans ta cuisine de code.
+
+Téléchargement et configuration : Prépare ta potion magique
+Maintenant que tu as les ingrédients, il est temps de télécharger et configurer l'API de recettes :
+
+Téléchargement : Rends-toi sur notre dépôt GitHub et télécharge le code source de l'API de recettes. C'est comme mettre la main sur un livre de sorts culinaires, mais version code.
+
+Installation des dépendances : Accède au dossier de l'API de recettes dans ton terminal et exécute la commande npm install. Laisse la magie opérer pendant que les dépendances sont installées.
+
+Configuration de la base de données : Ouvre le fichier config.js et ajoute les détails de ta base de données MongoDB. C'est comme choisir le chaudron où mijoteront tes données savoureuses.
+
+Lancement de l'API : Prêt à secouer ta baguette magique ?
+Maintenant que tout est prêt, il est temps de lancer l'API de recettes :
+
+Exécution : Dans ton terminal, exécute la commande npm start. C'est comme prononcer une incantation magique pour faire apparaître ton serveur.
+
+Vérification : Ouvre ton navigateur et va sur http://localhost:3000. Si tu vois un message accueillant, c'est que l'API de recettes est en vie ! C'est comme voir ton gâteau sortir du four sans brûler la maison.
+
+Exploration et amusement : Prêt à jouer avec les ingrédients ?
+Félicitations ! Tu as maintenant l'API de recettes qui tourne sur ton ordinateur. Tu peux maintenant explorer les différentes routes, ajouter de nouvelles recettes et laisser libre cours à ton imagination culinaire.
+
+N'oublie pas, c'est ton terrain de jeu, alors amuse-toi avec des combinaisons d'ingrédients étranges et des recettes farfelues
