@@ -1,0 +1,11 @@
+Cloner le projet :
+Avant de pouvoir utiliser l'API, vous devez cloner le projet à partir du dépôt Git : https://github.com/thomasO82/apiRecipes.git
+Assurez-vous que vous avez toutes les dépendances nécessaires pour exécuter le projet.
+
+Démarrer le serveur :
+Une fois le projet cloné, ouvrez une fenêtre de terminal dans le répertoire du projet et exécutez la commande npm start. 
+Cela devrait démarrer le serveur Express et vous devriez voir un message confirmant que le serveur écoute sur le port spécifié.
+
+Explorer les routes :
+L'API de recettes de cuisine que vous avez codée doit avoir des routes pour gérer les demandes de l'utilisateur. 
+Explorez les différentes routes en utilisant votre navigateur Web ou un client HTTP tel que Postman ou Insomnia.
