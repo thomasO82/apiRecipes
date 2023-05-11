@@ -1,5 +1,0 @@
-Flavien : FAQ
-Remy: Reference api
-Oriano: Guide installation
-Lola: Introduction
-Thomas: guide d'util
