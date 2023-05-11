@@ -1,0 +1,5 @@
+afficher les recettes : /recipes
+créer une recette : /recipes
+modifier recette : /recipes/:id
+supprimer recette : /recipes/:id
+afficher une recette en fonction de son id : /recipes/:id
